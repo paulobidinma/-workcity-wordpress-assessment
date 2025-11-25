@@ -1,7 +1,8 @@
-Questions:
+# Questions
+
 1. Difference between Google Knowledge Graph and Google Knowledge Panel.
-2. How Google determines entity identity. 
-3. When to create Custom Post Types instead of pages. 
+2. How Google determines entity identity.
+3. When to create Custom Post Types instead of pages.
 4. Recommended plugins for speed optimization and why.
 
 Answers:
@@ -31,5 +32,3 @@ Answers:
 -- DB & housekeeping: WP‑Optimize — database cleanup, table optimization, and scheduled maintenance.
 
 General tips: Choose only one caching plugin to avoid conflicts; prefer server‑level caching and CDN features when available (hosting can outperform plugins); test changes with Lighthouse, WebPageTest or GTmetrix; monitor Core Web Vitals (LCP, FID — or INP — and CLS) and address render‑blocking resources, oversized images, and long main‑thread tasks. Use scheduled maintenance (database cleanup, updates) to keep performance consistent.
-
-
