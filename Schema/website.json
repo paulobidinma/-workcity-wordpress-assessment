@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.workcityafrica.com/",
+  "name": "Workcity Africa",
+  "logo": "https://www.instagram.com/workcityafrica/",
+  "sameAs": [
+    "https://www.linkedin.com/company/workcity-africa/about/",
+    "https://www.instagram.com/workcityafrica/?hl=en"
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.workcityafrica.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

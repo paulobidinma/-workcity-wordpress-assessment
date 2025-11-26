@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sam Ojei",
+  "jobTitle": "Founder of Workcity Africa",
+  "image": "https://www.instagram.com/samojei/?hl=en",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Workcity Africa"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/samojei/",
+    "https://www.instagram.com/samojei/?hl=en"
+  ]
+}
